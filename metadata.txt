@@ -1,0 +1,18 @@
+[general]
+name=Perfil Topográfico con Peligro
+description=Herramienta avanzada para la generación de perfiles topográficos dinámicos segmentados por niveles de peligro geológico.
+about=Este plugin permite extraer perfiles de elevación a partir de un DEM y cruzarlos automáticamente con capas de polígonos de peligro. El usuario puede personalizar los colores por categoría y visualizar la ubicación exacta del cursor en el mapa en tiempo real. \n\nDesarrollado como una evolución técnica inspirada en las capacidades del plugin "Terrain Profile", optimizado para flujos de trabajo de gestión de riesgos.
+version=1.0
+qgisMinimumVersion=3.22
+author=Ing. Geol. Antenor Quispe
+email=antenor.rqf@gmail.com
+changelog=Versión inicial 1.0: \n- Generación de perfiles segmentados.\n- Gestión de colores personalizada.\n- Interacción dinámica con el lienzo de QGIS.
+
+# Enlaces externos
+repository=https://github.com/ANTENOR-GEOLOGO/PerfilTopografico_Peligro
+homepage=https://www.linkedin.com/in/antenor-raymundo-quispe-flores-691198168/
+
+category=Analysis
+tags=perfil, topografía, peligro.
+icon=icono2.png
+experimental=False
