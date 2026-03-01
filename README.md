@@ -15,4 +15,4 @@ Este plugin ha sido desarrollado como una evolución técnica inspirada en las c
 **Ing. Geol. Antenor Quispe**
 * **E-mail**: antenor.rqf@gmail.com
 * **Linkedin**: https://www.linkedin.com/in/antenor-raymundo-quispe-flores-691198168/
-* [cite_start]**Especialidad**: Geología y Automatización con Python[cite: 1].
+* **Especialidad**: Geología y Gestión de Riesgos, Automatización con Python.
